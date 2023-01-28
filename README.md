@@ -2,5 +2,5 @@
 
 Full featured oOS showcasing the Rick and Morty API.
 
--Written in Swift
--Unit Testedb
+- Written in Swift
+- Unit Testedb
